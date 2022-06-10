@@ -25,11 +25,11 @@
 
 | Организм | Гистограмма |
 | -------- | ----------- |
-| braziliensis | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist_braz.png) |
-| Friedlin | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist_fried.png) |
-| Ghana | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist_ghana.png) | 
-| mexicana | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist_mexicana.png) | 
-| tarentolae | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist_taren.png) |
+| braziliensis | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist2_braziliensis.pngg) |
+| Friedlin | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist2_friedlin.png) |
+| Ghana | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist2_ghana.png) | 
+| mexicana | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist2_mexicana.png) | 
+| tarentolae | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist2_tarentolae.png) |
 
 ## Предсказания участков Z-DNA
 
