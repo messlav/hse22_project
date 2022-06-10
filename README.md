@@ -25,7 +25,7 @@
 
 | Организм | Гистограмма |
 | -------- | ----------- |
-| braziliensis | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist2_braziliensis.pngg) |
+| braziliensis | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist2_braziliensis.png) |
 | Friedlin | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist2_friedlin.png) |
 | Ghana | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist2_ghana.png) | 
 | mexicana | ![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/gist2_mexicana.png) | 
