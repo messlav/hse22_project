@@ -73,10 +73,10 @@
 
 Cluster 1
 
-[!alt text](https://github.com/messlav/hse22_project/blob/main/imgs/clust_zdna1.png)
-[!alt text](https://github.com/messlav/hse22_project/blob/main/imgs/clust_zdna2.png)
+![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/clust_zdna1.png)
+![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/clust_zdna2.png)
 
 Cluster 2
 
-[!alt text](https://github.com/messlav/hse22_project/blob/main/imgs/clust_zdna3.png)
-[!alt text](https://github.com/messlav/hse22_project/blob/main/imgs/clust_zdna4.png)
+![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/clust_zdna3.png)
+![alt text](https://github.com/messlav/hse22_project/blob/main/imgs/clust_zdna4.png)
